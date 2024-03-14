@@ -1,4 +1,5 @@
 package org.example;
 
-public class GreetingServiceImpl extends Greet{
+// public class GreetingServiceImpl extends GreetingServiceGrpc{
+public class GreetingServiceImpl {
 }
